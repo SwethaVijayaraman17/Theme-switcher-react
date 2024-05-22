@@ -1,0 +1,25 @@
+body{
+  font-family: sans-serif;
+}
+.App{
+  border: 1px solid rgb(27, 26, 27);
+  padding: 30px;
+  width: 37%;
+  margin: auto;
+  margin-top: 6vw;
+  text-align: center;
+}
+h1{
+  color: rgb(172, 10, 85);
+}
+button{
+  background-color: rgb(189, 99, 141);
+  border: none;
+  padding: 8px 20px;
+  font-size: 1.2vw;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+}
